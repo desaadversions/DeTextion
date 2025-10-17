@@ -1,0 +1,6 @@
+com/detextion/controllers/MainController.class
+com/detextion/repository/DatabaseConnection.class
+com/detextion/graph/GraphConnector.class
+com/detextion/services/DocumentService.class
+com/detextion/utils/FileUtils.class
+com/Main.class
